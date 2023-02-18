@@ -9,7 +9,7 @@ title: FAQ
 
 ###### Lock is a feature that allows clients and providers to lock the funds deposited into their smart invoice, triggering arbitration.
 
-###### If the client loses confidence in the provider at any time or the provider under delivers on their promise, the client may lock any remaining funds in smart invoice so they cannot be released or withdrawn.
+###### If the client loses confidence in the provider at any time or the provider underdelivers on their promise, the client may lock any remaining funds in smart invoice so they cannot be released or withdrawn.
 
 ###### Alternatively, if the client has not released funds after a milestone is complete, the provider may lock any remaining funds in smart invoice.
 
@@ -62,7 +62,7 @@ title: FAQ
 
 <p>&nbsp;</p>
 
-###### Yes, you can execute one transaction for all milestone deposits and releases respectivley.
+###### Yes, you can execute one transaction for all milestone deposits and releases respectively.
 
 </details></h4>
 
